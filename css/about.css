@@ -22,3 +22,15 @@ p {
 .resume:hover {
     color: #99cc00;
 }
+
+
+.EFA {
+    text-decoration: none;
+}
+.EFA:hover{
+    color: #99cc00;
+}
+
+a {
+    color: black;
+}
